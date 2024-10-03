@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost:3307';
+$host = 'localhost:3306';
 $db = 'cadastro_usuario';
 $user = 'root'; 
 $pass = 'cimatec';
